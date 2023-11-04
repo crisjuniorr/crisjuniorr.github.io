@@ -24,15 +24,21 @@ h1 {
 }
 
 #odd {
-  font-size: 70px;
+  font-size: 30px;
+  border-radius: 5px;
+  border-style:none;
+  padding: 5px;
 }
 
 .calcular {
-  font-size: 50px;
+  font-size: 20px;
+  border-radius: 5px;
+  border-style:none;
+  padding: 5px;
 }
 
 .resultado {
-  font-size: 70px;
+  font-size: 30px;
 }
 
 
