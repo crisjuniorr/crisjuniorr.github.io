@@ -1,0 +1,40 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-container {
+  display: grid;
+  place-items: center;
+  background-color: gray;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+}
+
+.tudo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#odd {
+  font-size: 70px;
+}
+
+.calcular {
+  font-size: 50px;
+}
+
+.resultado {
+  font-size: 70px;
+}
+
+
+
+
